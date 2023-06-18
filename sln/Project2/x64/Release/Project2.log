@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\User\Desktop\conways game of life cli\sln\Project2\main.cpp(48,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\User\Desktop\conways game of life cli\sln\Project2\main.cpp(56,34): error C2660: 'total_neighbours_of': function does not take 1 arguments
+C:\Users\User\Desktop\conways game of life cli\sln\Project2\main.cpp(11,5): message : see declaration of 'total_neighbours_of'
+C:\Users\User\Desktop\conways game of life cli\sln\Project2\main.cpp(56,34): message : while trying to match the argument list '(int)'
+C:\Users\User\Desktop\conways game of life cli\sln\Project2\main.cpp(69,27): error C2065: 'j': undeclared identifier

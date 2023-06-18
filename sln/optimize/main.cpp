@@ -71,14 +71,14 @@ int main() {
             }
         }
         //print array1
-        for (int i = 0; i < ROWS; i++) {
-            for (int j = 0; j < COLUMNS; j++) {
-                if (array1[i][j]) //std::cout << "#"; else std::cout << "_";
-                    printf("#"); else printf("#");
-            }
-            //std::cout << std::endl;
-            printf("\n");
-        }
+        //for (int i = 0; i < ROWS; i++) {
+        //    for (int j = 0; j < COLUMNS; j++) {
+        //        if (array1[i][j]) //std::cout << "#"; else std::cout << "_";
+        //            //printf("#"); else printf("#");
+        //    }
+        //    //std::cout << std::endl;
+        //    //printf("\n");
+        //}
         //Sleep(10000);
         //system("cls");
         //set array1 to array2

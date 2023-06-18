@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\User\Desktop\conways game of life cli\sln\using-singledimension-array-test\main.cpp(56,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Generating code
+  1 of 13 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  using-singledimension-array-test.vcxproj -> C:\Users\User\Desktop\conways game of life cli\sln\Project1\x64\Release\using-singledimension-array-test.exe

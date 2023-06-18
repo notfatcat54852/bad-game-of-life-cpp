@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (speedtest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\User\Desktop\conways game of life cli\sln\speedtest\main.cpp(51,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  speedtest.vcxproj -> C:\Users\User\Desktop\conways game of life cli\sln\Project1\x64\Debug\speedtest-with-cls-and-cout.exe

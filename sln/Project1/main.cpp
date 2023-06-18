@@ -99,7 +99,9 @@ int main() {
         }
         std::cout << std::endl;
     }
-    while (1) {
+    //create cycle counter limit
+    int cycles = 0;
+    while (cycles < 1000) {
         ////print seed
         //std::cout << std::endl << seed << std::endl;
         //apply rules of life
@@ -132,6 +134,7 @@ int main() {
                 array1[i][j] = array2[i][j];
             }
         }
+        cycles++;
     }
 }
 

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\Desktop\conways game of life cli\sln\optimize\main.cpp(49,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  optimize.vcxproj -> C:\Users\User\Desktop\conways game of life cli\sln\Project1\x64\Debug\optimize.exe

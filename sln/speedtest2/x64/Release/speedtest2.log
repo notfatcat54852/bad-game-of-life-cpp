@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\User\Desktop\conways game of life cli\sln\speedtest2\main.cpp(51,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  speedtest2.vcxproj -> C:\Users\User\Desktop\conways game of life cli\sln\Project1\x64\Release\speedtest2.exe
